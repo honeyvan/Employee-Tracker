@@ -1,0 +1,16 @@
+form {
+	padding: 15px;
+}
+
+.empDiv {
+	margin: 0 auto;
+	padding: 0;
+}
+
+.jumbotron {
+	margin: 0 auto 30px;
+}
+
+.card-header {
+	font-weight: bold;
+}
